@@ -1,0 +1,13 @@
+privado/
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.gpkg
+*.shp
+*.kml
+*.kmz
+__pycache__/
+.DS_Store
+node_modules/
+dist/
