@@ -1,0 +1,42 @@
+{
+  "filas": 8042,
+  "frentes": 27,
+  "tipos": 45,
+  "estados_instalacion": {
+    "Instalado": 7474,
+    "Proyectado": 493,
+    "Instalado_Parcial": 75
+  },
+  "estados_operacion": {
+    "Fuera_de_servicio": 2282,
+    "Operativo": 4965,
+    "En_revisión": 73,
+    "Parcialmente_operativo": 204,
+    "Proyectado": 493,
+    "Sin_acceso": 25
+  },
+  "calidad": {
+    "filas_validas": 8042,
+    "sin_coordenadas": 1500,
+    "identificadores_distintos_no_verificados": 5771,
+    "identificadores_repetidos": 1404,
+    "identificadores_faltantes": 0,
+    "advertencias": {},
+    "fechas_instalacion_por_anio": {
+      "2012": 58,
+      "2013": 273,
+      "2014": 584,
+      "2015": 319,
+      "2016": 296,
+      "2017": 134,
+      "2018": 250,
+      "2019": 1001,
+      "2020": 2051,
+      "2021": 1009,
+      "2022": 602,
+      "2023": 249,
+      "2024": 325,
+      "2025": 259
+    }
+  }
+}
